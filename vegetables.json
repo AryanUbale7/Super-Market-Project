@@ -1,0 +1,54 @@
+{
+  "vegetables": [
+    {
+      "name": "Tomato",
+      "type": "Fruit Vegetable",
+      "price_per_kg": 30
+    },
+    {
+      "name": "Potato",
+      "type": "Root Vegetable",
+      "price_per_kg": 25
+    },
+    {
+      "name": "Spinach",
+      "type": "Leafy Vegetable",
+      "price_per_kg": 15
+    },
+    {
+      "name": "Carrot",
+      "type": "Root Vegetable",
+      "price_per_kg": 28
+    },
+    {
+      "name": "Cabbage",
+      "type": "Leafy Vegetable",
+      "price_per_kg": 18
+    },
+    {
+      "name": "Cauliflower",
+      "type": "Flower Vegetable",
+      "price_per_kg": 22
+    },
+    {
+      "name": "Onion",
+      "type": "Bulb Vegetable",
+      "price_per_kg": 35
+    },
+    {
+      "name": "Brinjal",
+      "type": "Fruit Vegetable",
+      "price_per_kg": 20
+    },
+    {
+      "name": "Peas",
+      "type": "Seed Vegetable",
+      "price_per_kg": 40
+    },
+    {
+      "name": "Bitter Gourd",
+      "type": "Gourd Vegetable",
+      "price_per_kg": 32
+    }
+  ]
+}
